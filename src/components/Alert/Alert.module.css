@@ -1,0 +1,10 @@
+.root{
+    width: 30%
+}
+
+
+@media (max-width: 770px){
+    .root{
+      width: 60% !important;
+    }
+  }
